@@ -1,0 +1,83 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title>
+    <style type="text/css">
+body {
+	background-color:#3d8e42;
+	font-family: Arial, Helvetica, sans-serif; 
+	color: #ffffff;   
+	font-size: 14px;      
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+}
+.logoSam {
+	width:150px; height:81px; margin-bottom: 20px;
+}
+.conteneurFlash {
+	width:568px; height:472px; margin:0 auto;
+}
+.conteneurFooter {
+	width:642px;margin:0 auto;margin-top:20px;text-align:center;
+}
+</style>
+    
+</head>
+<body>
+    <form name="form1" method="post" action="activite.aspx?id=3" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY3ODUzNDQzOGRkjpZmDDf/TG53rb987g4Lj4kreZY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="53CEA7C4" />
+    
+    <div class="logoSam"><img src="images/logoSam.png" /></div>
+    
+    <div>
+    
+    
+    <div class="conteneurFlash">
+            <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+	            codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" 
+	            id="index" 
+	            width="568" 
+	            height="472" 
+	            align="middle"
+            >
+	        <param name="allowScriptAccess" value="always" />
+	        <param name="movie" value="coquilleActivite.swf"/>
+	        <param name="wmode" value="transparent" />
+	        <param name="quality" value="high" />
+	        <param name="bgcolor" value="#00FF00" />
+	        <param name="FlashVars" value="phantom=true&swf=cassetete&inter=activites&xml=%3cxml%3e%0d%0a%3cquestion%3eQu%e2%80%99est-ce+qu%e2%80%99Edgar+a+trouv%c3%a9+dans+les+poubelles+de+Madame+Kelleur%3f%3c%2fquestion%3e%0d%0a%3curl%3echapitres%2factivites%2fimages%2fcasseTete_c28.jpg%3c%2furl%3e%0d%0a%3c%2fxml%3e%0d%0a" />
+	        <embed src="coquilleActivite.swf" 
+		        quality="high" 
+		        bgcolor="#00FF00" 
+		        width="568" 
+		        height="472" 
+		        swLiveConnect=true 
+		        id="coquilleActivite" 
+		        name="coquilleActivite" 
+		        align="middle" 
+		        allowScriptAccess="always" 
+		        wmode="transparent"
+		        type="application/x-shockwave-flash" 
+		        pluginspage="http://www.macromedia.com/go/getflashplayer"
+		        FlashVars="phantom=true&swf=cassetete&inter=activites&xml=%3cxml%3e%0d%0a%3cquestion%3eQu%e2%80%99est-ce+qu%e2%80%99Edgar+a+trouv%c3%a9+dans+les+poubelles+de+Madame+Kelleur%3f%3c%2fquestion%3e%0d%0a%3curl%3echapitres%2factivites%2fimages%2fcasseTete_c28.jpg%3c%2furl%3e%0d%0a%3c%2fxml%3e%0d%0a"
+                />
+                </object>
+                </div>
+        
+
+    
+        <div class="conteneurFooter">
+            <img src="http://samchicotte.telequebec.tv/images/logos-partenaires.jpg" style="width:577px; height:51px"/><br/><br/>
+            © Tous droits réservés, Les Productions Point de mire - <a href="mailto:samchicotte@telequebec.tv">samchicotte@telequebec.tv</a>
+        </div>
+    </div>
+    
+    </form>
+</body>
+</html>
